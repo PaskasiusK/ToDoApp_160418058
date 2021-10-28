@@ -5,8 +5,9 @@
       <map>
         <entry key="..\:/Paskasius/advance native/TodoApp/app/src/main/res/layout/activity_main.xml" value="0.15625" />
         <entry key="..\:/Paskasius/advance native/TodoApp/app/src/main/res/layout/fragment_create_to_do.xml" value="0.4" />
+        <entry key="..\:/Paskasius/advance native/TodoApp/app/src/main/res/layout/fragment_edit_to_do.xml" value="0.2115036231884058" />
         <entry key="..\:/Paskasius/advance native/TodoApp/app/src/main/res/layout/fragment_to_do_list.xml" value="0.16259057971014493" />
-        <entry key="..\:/Paskasius/advance native/TodoApp/app/src/main/res/layout/todo_item_layout.xml" value="0.6" />
+        <entry key="..\:/Paskasius/advance native/TodoApp/app/src/main/res/layout/todo_item_layout.xml" value="0.264" />
       </map>
     </option>
   </component>
